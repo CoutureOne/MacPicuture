@@ -1,0 +1,2 @@
+# MacPicuture
+typora-mac-photos
